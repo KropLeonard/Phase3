@@ -24,3 +24,5 @@ Usage
 - Predicting the Rate of Investments of different investment from rental to hospitality
 - Predict the cost of living of the countries
 
+  The Data collected from https://www.kaggle.com/datasets/myrios/cost-of-living-index-by-country-by-number-2024/data and is verified to be used for data analysis and visualization across the world 
+
