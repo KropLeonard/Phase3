@@ -14,7 +14,7 @@ The dataset provides various indices related to the cost of living, rent, grocer
 - Restaurant Price Index: An index that represents the cost of dining out in the country.
 - Local Purchasing Power Index: An index that represents the local purchasing power in the country.
 Usage
-**This dataset can be used for various analyses, including:**
+ ## **This dataset can be used for various analyses, including:**
 
 - Comparing the cost of living between different countries.
 - Analyzing the relationship between rent and overall cost of living.
